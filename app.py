@@ -1,2 +1,2 @@
 print("hallo world and you")
-vsdvddvsvnuh с 
+vsdvddvsvnuh с ысфы
